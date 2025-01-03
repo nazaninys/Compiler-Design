@@ -1,0 +1,6 @@
+[submodule "Sophia-Compiler"]
+	path = Sophia-Compiler
+	url = https://github.com/nazaninys/Sophia-Compiler.git
+[submodule "Jepeto-Compiler"]
+	path = Jepeto-Compiler
+	url = https://github.com/nazaninys/Jepeto-Compiler.git
